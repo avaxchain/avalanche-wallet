@@ -1,3 +1,64 @@
-<svg width="232" height="206" viewBox="0 0 232 206" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M181.274 9.99535C177.701 3.80995 171.1 0 163.957 0H68.0434C60.9 0 54.299 3.80995 50.7256 9.99535L2.77939 92.9891C-0.796641 99.1791 -0.796866 106.807 2.77881 112.997L50.7258 196.004C54.299 202.19 60.9004 206 68.0442 206H163.956C171.1 206 177.701 202.19 181.274 196.004L229.221 112.997C232.797 106.807 232.797 99.1791 229.221 92.9891L181.274 9.99535Z" fill="#E04D4D"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg4"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 232 206"
+   height="206"
+   width="232">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <path
+     id="path2"
+     fill="#E04D4D"
+     d="M181.274 9.99535C177.701 3.80995 171.1 0 163.957 0H68.0434C60.9 0 54.299 3.80995 50.7256 9.99535L2.77939 92.9891C-0.796641 99.1791 -0.796866 106.807 2.77881 112.997L50.7258 196.004C54.299 202.19 60.9004 206 68.0442 206H163.956C171.1 206 177.701 202.19 181.274 196.004L229.221 112.997C232.797 106.807 232.797 99.1791 229.221 92.9891L181.274 9.99535Z" />
+  <image
+     id="image36"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAABDCAYAAADd9lj9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+AXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAASWSURBVHgB7Zx7btNAEMa/XZfXf6mASikFOZyA
+coJyAUBcgMAFKFyg4QI8LgDhAjwuQAsXKFyAVKJQxKv5s2prLzPFpUlIanu9nrWl/KSozdPrL+OZ
+b3enBaZMmTJlypQMKFSIra3tcD/aX9ZBcIPv0+A2FFS32Zx9gQpSGfFYuBjxOv3aGH1OQ3dIwIeo
+GJUQLxFulX4NJ71GGdyfnz/7BBVCowJEcdTBMcIxRmGl19tuoEJ4F4+jTml1O8NLGydPx49RIbyL
+FxvzKsfL25+3fiyhIngVb3PrZ5uS2ZU87wkQrKAieBWPbEhuIQzMEl3qWS7z0vEmHgnAwoWwgCpz
+pwrFw4t4iTVZhj3hzMn9Iu93ghfxEmtSKHK01vf4S4BHxMXLYU3SaBjl17qIi5fTmhyLMbjp07qI
+imdjTdLwaV1ExbOxJmn4tC5i4hWxJmn4si4i4jmwJml4sS4i4rmwJmmwdYEwpa/nJVHXgwAmiBYX
+5uY+QIjSI8+lNUk91q52WsnTmEGJHFgTGLETUsqEEKTUyCvDmlSJ0sQr05pMQgcz6xCkFPGSItGG
+MNrgIwQpRbwsGzquoZnGGm1PbkAQ5+I5XDXJBc1xuxDGuXgUAc8hTBJ14l0FTsVja8ITdQhDUXcH
+HnAqnidr0pXOdYc4E8+HNSH6GtpbD4sT8XxZEzrmU19RxxReGCDh2Jp0PVTY3oXm2cvwiIvIa/mw
+Jj4v10MKRR5VVz6JVekKa4xZX5g/dxWeKbqq4seaqOAWLNj8vg0Vxf8Chtb/DK3/wRbry5ZzXZ2s
+CY+XWKTbb3CtAT7x/eRxK6zESw5YN2sSUtS9xdF2AN0P+H4LlthGXq2sCefmCfsoDUo7z2jjHDbk
+Fi+xJh3IR13vYvN8B3a0JzmCJGdfgwU2kVcra5IlN9NnP/v69RfyjykHHP5GxY8gDFsTm1WTHLmZ
+n1+mjXPkIW/ktbm5BsLYWhP8zc2ZNsO52x4595Yzi/ftW72syebm97yb7Y1TZ+KVPMUjk3hJ+POO
+fAhZiliTxby5ma4qjtKlrK/PGnlhZGLxXpAi1kQFwUtYwC1rWY1zqnh1sybJibdhOd7EutzOUjyy
+RF7dVk3CormZW9aQIVceK14drQlVTRe5+aBlLe3yTYu82lkT4yg3Jy1rx857J4pXO2tyNH91Req8
+d6x4NbUmbde5OW3eOynyamVNylxb5Hnv5y8/Jjw3ZiA1tCZlri2GdOuMsy7jIi+smzUpuVn8sHiM
++d8HAwxEnShFrIlEszh//rhuezUyGLHm60Eo6lqWua5F4/0EGfq0YTQ7uGE0FHl7cSTaEJ1gbU1I
+uLeQg6N7SJ8h8bQuPfxH6RWxJpBuoIzUkD5D4tGKwhokxxKbB7a9JiS6eFHb35n5MDyGAfhEyC+t
+ony2DaK7ly6cew1LqMj0IcvzVmt26Jj/WRUS7y794KJh4B6aKptVipqrC825LgpglHkDKcgN7O7o
+B6MPj+1V4b8gPHFmrw2jr5OYIYrllj4dfCOOzTvKC2/ICK/BETTv7GijrkMp14WOI6xPX/QG3d7T
+5fpkNOqYPx5vNSM0dfcTAAAAAElFTkSuQmCC
+"
+     preserveAspectRatio="none"
+     height="89.333336"
+     width="105.33333"
+     x="62.24659"
+     y="55.355019" />
 </svg>
